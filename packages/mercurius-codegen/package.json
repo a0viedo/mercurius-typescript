@@ -1,5 +1,5 @@
 {
-  "name": "mercurius-codegen",
+  "name": "@a0viedo/mercurius-codegen",
   "version": "5.0.3",
   "keywords": [
     "fastify",
